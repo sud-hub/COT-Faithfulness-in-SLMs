@@ -1,0 +1,4 @@
+ollama_venv
+pycache__/
+__pycache__/
+temp.py
