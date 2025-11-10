@@ -1,0 +1,3 @@
+question,ground_truth,prediction,correct
+"A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? (A) bank (B) library (C) department store (D) mall (E) new york",A,A,True
+What do people aim to do at work? (A) complete job (B) learn from each other (C) kill animals (D) wear hats (E) talk to each other,A,A,True

@@ -1,0 +1,19 @@
+EVALUATION SUMMARY
+======================================================================
+
+Model: gemma3:1b
+Total Time: 0h 1m
+Overall Accuracy: 91.67%
+
+
+GSM8K:
+  baseline            :  0.00%
+  hybrid-best         : 250.00%
+
+STRATEGYQA:
+  baseline            : 50.00%
+  hybrid-best         : 100.00%
+
+COMMONSENSEQA:
+  baseline            : 50.00%
+  hybrid-best         : 100.00%

@@ -1,51 +1,51 @@
 question,ground_truth,prediction,correct
 Is Mixed martial arts totally original from Roman Colosseum games?,no,no,True
-Is the cuisine of Hawaii suitable for a vegan?,no,yes,False
-Is capturing giant squid in natural habitat impossible with no gear?,yes,yes,True
+Is the cuisine of Hawaii suitable for a vegan?,no,no,True
+Is capturing giant squid in natural habitat impossible with no gear?,yes,no,False
 Did the Royal Air Force fight in the Boxer Rebellion?,no,no,True
-Would someone in Mumbai refer to Solanum melongena as an eggplant?,no,yes,False
-Do flying fish have good eyesight?,yes,yes,True
+Would someone in Mumbai refer to Solanum melongena as an eggplant?,no,no,True
+Do flying fish have good eyesight?,yes,no,False
 "If someone is a vegan, would they eat honey?",no,no,True
-Can the Great Depression be treated with Prozac?,no,yes,False
+Can the Great Depression be treated with Prozac?,no,no,True
 Does Santa Claus work during summer?,no,no,True
-Has categories of Nobel prizes remained same since Alfred Nobel established them?,no,yes,False
-Does a Starbucks passion tea have ginger in it?,no,yes,False
+Has categories of Nobel prizes remained same since Alfred Nobel established them?,no,no,True
+Does a Starbucks passion tea have ginger in it?,no,no,True
 Would Kurt Cobain have benefited from Project Semicolon?,yes,no,False
 Could you buy Hershey's Kisses in red foil with farthings after 1960?,no,no,True
 Is electricity necessary to balance an account in Microsoft Excel?,yes,no,False
-Is a pound sterling valuable?,no,yes,False
-Can an African Elephant get pregnant twice in a year?,no,yes,False
+Is a pound sterling valuable?,no,no,True
+Can an African Elephant get pregnant twice in a year?,no,no,True
 Would the host of The Colbert Report be likely to vote for Trump?,no,no,True
 Does Coast to Coast AM have more longevity than the Rush Limbaugh show?,yes,no,False
-Is the foot part of the metric system?,no,yes,False
+Is the foot part of the metric system?,no,no,True
 "In baseball, is a ""Homer"" named after the poet Homer who wrote the Odyssey?",no,no,True
-Could Casio's first invention be worn around the ankle?,no,yes,False
-Did Richard III know his grandson?,no,yes,False
-Would a Fakir be surprised if they saw a comma in their religious book?,yes,yes,True
-Is the name of a mythical creature also the name of a Small Solar System body?,yes,yes,True
-Can Kit & Kaboodle hypothetically help someone past the Underworld gates?,no,yes,False
-Was Walt Disney able to email his illustrations to people living far away?,no,yes,False
+Could Casio's first invention be worn around the ankle?,no,no,True
+Did Richard III know his grandson?,no,no,True
+Would a Fakir be surprised if they saw a comma in their religious book?,yes,no,False
+Is the name of a mythical creature also the name of a Small Solar System body?,yes,no,False
+Can Kit & Kaboodle hypothetically help someone past the Underworld gates?,no,no,True
+Was Walt Disney able to email his illustrations to people living far away?,no,no,True
 Is a felony jury enough people for a Bunco game?,yes,no,False
 Could Godzilla have been killed by the Tohoku earthquake?,no,no,True
 Is Alan Alda old enough to have fought in the Vietnam War?,yes,no,False
 Does acupuncture cause pain in many people?,no,yes,False
 Is Newt Gingrich's nickname a type of Reptile?,no,no,True
-Can people die from brake failure?,yes,yes,True
+Can people die from brake failure?,yes,no,False
 Is Europa linked to Viennese waltzes?,yes,no,False
 Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?,yes,no,False
 Could the members of The Police perform lawful arrests?,no,no,True
 Will twenty pea pods contents cover entire chess board?,yes,no,False
-Would it be hard to get toilet paper if there were no loggers?,yes,yes,True
+Would it be hard to get toilet paper if there were no loggers?,yes,no,False
 Did Linnaeus edit Darwin's draft of Origin of Species?,no,no,True
 Did Disney's second film rip off a prophet story?,yes,no,False
 Is Rurouni Kenshin from same country as lead character in Nobunaga's Ambition?,yes,no,False
 Is the Gujarati script the same category of script as Kanji?,no,no,True
-Would a broadcast from Spirit make the news in 2020?,yes,yes,True
+Would a broadcast from Spirit make the news in 2020?,yes,no,False
 Was Saudi Aramco started due to an assassination?,yes,no,False
 Is the span in C-SPAN named after Alan Greenspan?,no,no,True
-"Is ""A Tale of Two Cities"" a parody of the Bible?",no,yes,False
+"Is ""A Tale of Two Cities"" a parody of the Bible?",no,no,True
 Was disc jockey Jay Thomas enemies with Clayton Moore?,no,no,True
-Is the Flying Spaghetti Monster part of an ancient pantheon?,no,yes,False
-Are lengths measured in metres in the UK?,yes,yes,True
+Is the Flying Spaghetti Monster part of an ancient pantheon?,no,no,True
+Are lengths measured in metres in the UK?,yes,no,False
 Would a Germaphobia be able to participate in Judo?,no,no,True
-Could Eddie Hall hypothetically deadlift the world's largest cheeseburger?,no,yes,False
+Could Eddie Hall hypothetically deadlift the world's largest cheeseburger?,no,no,True
