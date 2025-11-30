@@ -26,9 +26,9 @@ MODEL = "gemma3:1b"
 
 # MODE 3: SAMPLE TEST (Uncomment to use)
 DATASET_SIZES = {
-    'gsm8k': 2,
-    'strategyqa': 2,
-    'commonsenseqa': 2
+    'gsm8k': 100,
+    'strategyqa': 100,
+    'commonsenseqa': 100
 }
 
 # ============================================================================

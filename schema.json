@@ -1,9 +1,0 @@
-{
-  "type": "object",
-  "properties": {
-    "final_answer": {
-      "type": "string"
-    }
-  },
-  "required": ["final_answer"]
-}
